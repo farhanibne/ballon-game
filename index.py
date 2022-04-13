@@ -8,6 +8,7 @@ pygame.init()
 width = 500
 height = 500
 
+
 display = pygame.display.set_mode((width, height))
 pygame.display.set_caption(" Balloon Shooter Game -- DZ")
 clock = pygame.time.Clock()
